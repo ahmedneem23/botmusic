@@ -256,4 +256,4 @@ if (message.content.startsWith(PREFIX + 'setavatar')) {
 });
 
 
-client.login(NDU5MTMxOTM4OTA5ODQ3NTUy.DgyRdw.QmXoXE9NU1sV0RzStoWDsPVNkRw);
+client.login(NDU5MTMxOTM4OTA5ODQ3NTUy.DgyUiA.sDnDBjIN-O1aZ-4puAo6r96pirQ);
